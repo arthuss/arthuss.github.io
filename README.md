@@ -16,7 +16,7 @@ Wenn du dein Nutzerkonto oder gespeicherte Daten löschen möchtest, kannst du d
    Dadurch werden alle lokal gespeicherten Fortschritte und Einstellungen entfernt.
 
 2. **Über unseren Support:**  
-   Sende eine kurze E-Mail an **support@deinestudio.de**  
+   Sende eine kurze E-Mail an **sascha.bay25@gmail.com**  
    mit dem Betreff **„Konto löschen“**.  
    Gib bitte (falls vorhanden) deine Nutzer-ID oder deinen Nutzernamen an, damit wir dein Konto korrekt zuordnen können.
 
