@@ -1,8 +1,8 @@
 ---
-title: Konto löschen – TierWall
+title: Konto löschen – livewallpaper
 ---
 
-# Konto löschen (TierWall)
+# Konto löschen (LiveWallpaper)
 
 Wenn du dein Nutzerkonto oder gespeicherte Daten löschen möchtest, kannst du das jederzeit tun.
 
@@ -35,4 +35,4 @@ Mehr zu unserer Datenspeicherung findest du in der
 
 ---
 
-© 2025 TierWall by Arthuss Studios
+© 2025 LiveWallpaper by .exeOS/Arthuss
