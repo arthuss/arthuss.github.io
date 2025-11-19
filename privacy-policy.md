@@ -5,14 +5,14 @@ title: Datenschutzrichtlinie – TierWall
 # Datenschutzrichtlinie für TierWall
 
 **Zuletzt aktualisiert:** November 2025  
-**Verantwortlich:** Arthuss Studios  
-**E-Mail:** support@deinestudio.de
+**Verantwortlich:** .exeOS
+**E-Mail:** exeget@dotexeos.com
 
 ---
 
 ## 1. Allgemeines
 
-Diese App („TierWall“) wird von **Arthuss Studios** entwickelt und betrieben.  
+Diese App („livewallpaper“) wird von **.exeOS** entwickelt und betrieben.  
 Der Schutz deiner Daten ist uns wichtig. Wir verarbeiten nur die Informationen, die zur Nutzung und Verbesserung der App notwendig sind, gemäß der **Datenschutz-Grundverordnung (DSGVO)**.
 
 ---
