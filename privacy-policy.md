@@ -1,8 +1,8 @@
 ---
-title: Datenschutzrichtlinie – TierWall
+title: Datenschutzrichtlinie – LiveWallpaper
 ---
 
-# Datenschutzrichtlinie für TierWall
+# Datenschutzrichtlinie für LiveWallpaper
 
 **Zuletzt aktualisiert:** November 2025  
 **Verantwortlich:** .exeOS
