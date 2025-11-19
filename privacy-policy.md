@@ -100,4 +100,4 @@ einsehbar.
 
 ---
 
-© 2025 Arthuss Studios – TierWall
+© 2025.exeOS/Arthuss – LiveWallpaper
